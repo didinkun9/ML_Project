@@ -1,0 +1,8 @@
+gspread
+kafka-python
+pandas
+oauthlib
+psycopg2
+pymongo
+scikit-learn
+sqlalchemy
